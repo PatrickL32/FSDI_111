@@ -49,21 +49,11 @@ DELETE FROM user WHERE id =2; -- this one only deletes a single element.
 --mini challenge--
 
 Insert into user(
-    first_name,
-    last_name,
-    hobbies
-) VALUES(
-    "Jane",
-    "Doe",
-    "playing tennis and video games"
-
-);
-Insert into user(
     first_name ,
     last_name,
     hobbies
 ) VALUES(
-    "Tom",
+    "Thomas",
     "Jones",
     "skiing and bird watching",
 );
@@ -77,3 +67,4 @@ INSERT into user(
     "Rodgers",
     "Code and watch YouTube videos"
 );
+

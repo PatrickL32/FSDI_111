@@ -11,5 +11,9 @@ def profile():
         "last_name":"Lewis",
         "hobbies":"listening to podcasts..",
         " is_online": True
-}
+        }                                     # Dictionary with key-value pairs
     return me                         # Returning a dictionary from a Flask view function converts to JSON!
+
+
+
+
